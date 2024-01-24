@@ -1,0 +1,11 @@
+     ---- HIGHSCORE TABLE------  
+1.   Lucy   150
+2.   Nathan   140
+3.   Jane   100
+4.   Liz   90
+5.   Kate   90
+6.   Alex   80
+7.   Alice   80
+8.   Emma   70
+9.   Adam   60
+10.   Robert   50
